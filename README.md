@@ -19,7 +19,6 @@ Solace is an AI-driven application that leverages deep learning to analyze blood
 1. **Upload Image** – Users upload a microscopic blood smear image.  
 2. **AI Analysis** – The deep learning model processes the image and detects malaria-infected cells.  
 3. **Diagnosis Output** – The app provides a detailed report, including the probability of infection.  
-4. **Actionable Insights** – Recommends next steps for treatment or further testing.  
 
 ---
 ---
