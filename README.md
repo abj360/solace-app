@@ -22,7 +22,15 @@ Solace is an AI-driven application that leverages deep learning to analyze blood
 4. **Actionable Insights** – Recommends next steps for treatment or further testing.  
 
 ---
+---
+## Screenshots
+### Upload Image Screen
+![Upload Screen](assets/upload_screen.png)
 
+### Diagnosis Output
+![Diagnosis Output](assets/diagnosis_output.png)
+
+---
 ## Tech Stack
 - **Frontend:** Streamlit  
 - **Backend:** N/A (Only Google Colab for model execution)  
